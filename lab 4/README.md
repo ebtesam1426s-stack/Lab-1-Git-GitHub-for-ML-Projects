@@ -14,16 +14,20 @@ Task 1: Data Quality Issues
 Missing values in Age and Cabin
 Mixed data types
 Presence of outliers in numerical features
+
 Task 2: Missing Values
 Age filled using median
 Cabin dropped due to many missing values
+
 Task 3: Outliers (IQR)
 Applied on Age and Fare
 Extreme values removed
 Task 4: Normalization
+
 Min-Max Scaling
 Z-score Standardization
 Applied to Age and Fare
+
 Task 5: PCA
 
 PCA applied because numerical features show correlation.
